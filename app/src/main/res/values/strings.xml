@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BleSerial</string>
+
+    <string name="ble">Bluetooth</string>
+    <string name="ble_open">Bluetooth is alive</string>
+    <string name="ble_close">Bluetooth is not alive</string>
+    <string name="scan_info">Please click scan button to scan device</string>
+
+    <string name="btn_scan">Scan</string>
+    <string name="btn_send">Send</string>
+    <string name="scanning">Scanning...</string>
+
+    <string name="bond_device_info">Bond devices</string>
+    <string name="unbond_device_info">New devices</string>
+
+    <string name="device_name">Name</string>
+    <string name="mac_name">MAC</string>
+</resources>

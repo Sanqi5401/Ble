@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">蓝牙串口</string>
+
+    <string name="ble">蓝牙</string>
+    <string name="ble_open">蓝牙已激活</string>
+    <string name="ble_close">蓝牙未激活</string>
+    <string name="scan_info">请点击搜索按钮查找蓝牙设备</string>
+
+    <string name="btn_scan">扫描</string>
+    <string name="btn_send">发送</string>
+    <string name="scanning">扫描中...</string>
+
+    <string name="bond_device_info">已配对的设备</string>
+    <string name="unbond_device_info">新设备</string>
+
+    <string name="device_name">设备名</string>
+    <string name="mac_name">MAC地址</string>
+</resources>
